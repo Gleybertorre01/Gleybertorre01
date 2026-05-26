@@ -1,11 +1,9 @@
 # 👨🏻‍💻 Gleyber Torres
 
-**`Desenvolvedor FullStack | Criador de Conteúdo Tech`**
+**`Desenvolvedor FullStack **
 
-Me chamo Gleyber Torres, sou do estado de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, programação e criação de conteúdo voltado para desenvolvimento e tecnologia.
-
-Atuo também na área de manutenção de celulares através da minha empresa Mercado Certo / Dr. iPhone, onde desenvolvi experiência com atendimento, resolução de problemas e gestão. Atualmente estou focado em evoluir como desenvolvedor Back-End e FullStack, estudando tecnologias modernas, banco de dados, automações e inteligência artificial.
-
+Me chamo Gleyber Torres, sou do estado de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, programação.
+Atualmente estou focado em evoluir como desenvolvedor Back-End e FullStack, estudando tecnologias modernas, banco de dados, automações e inteligência artificial.
 Compartilho minha jornada, projetos e aprendizados através do GitHub e das redes sociais.
 
 <p align="left">
