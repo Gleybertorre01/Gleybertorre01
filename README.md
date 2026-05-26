@@ -7,7 +7,7 @@ Atualmente estou focado em evoluir como desenvolvedor Back-End e FullStack, estu
 Compartilho minha jornada, projetos e aprendizados através do GitHub e das redes sociais.
 
 <p align="left">
-    <a href="SEU_LINK_INSTAGRAM">
+    <a href="https://www.instagram.com/gley_torre/">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
