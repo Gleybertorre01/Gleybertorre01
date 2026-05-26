@@ -128,14 +128,13 @@ Compartilho minha jornada, projetos e aprendizados através do GitHub e das rede
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleybertorre01&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=1800"/>
+
+</div>
 
 <img 
       align="left" 
