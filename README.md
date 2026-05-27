@@ -130,7 +130,7 @@ Compartilho minha jornada, projetos e aprendizados através do GitHub e das rede
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaby0832&show_icons=true&theme=dark&title_color=F7B7D2&icon_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=dark&title_color=F7B7D2&icon_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
 
 #
 
