@@ -130,22 +130,12 @@ Compartilho minha jornada, projetos e aprendizados através do GitHub e das rede
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=dark&title_color=F7B7D2&icon_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=dark&title_color=7DD3FC&icon_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC"/>
 
 #
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gleybertorre01&layout=compact&theme=dark&title_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gleybertorre01&layout=compact&theme=dark&title_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC"/>
 
 </div>
 
 
-</div>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleybertorre01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
