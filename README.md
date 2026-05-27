@@ -130,9 +130,14 @@ Compartilho minha jornada, projetos e aprendizados através do GitHub e das rede
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleybertorre01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaby0832&show_icons=true&theme=dark&title_color=F7B7D2&icon_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleybertorre01&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=1800"/>
+#
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gleybertorre01&layout=compact&theme=dark&title_color=F7B7D2&text_color=F9DDEB&border_color=F7B7D2"/>
+
+</div>
+
 
 </div>
 
